@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors-origin": "^0.4.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cors-server",
+  "version": "1.0.0",
+  "description": "cors-s",
+  "main": "e",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "r"
+  },
+  "author": "",
+  "license": "ISC"
+}
